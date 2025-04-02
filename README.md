@@ -37,7 +37,6 @@ chat-application/
 │   │       ├── style.css                          // Feuille CSS pour le style de l'interface graphique
 │
 ├── module-info.java                              // Configuration des modules Java
-                                   // (Optionnel) Fichier de configuration Maven
 
 ```
 
